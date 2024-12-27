@@ -1,0 +1,10 @@
+[
+    {
+        "name": "sunders",
+        "movementType": "land" || "fly"
+    }
+	{
+        "name": "MAX",
+        "movementType": "Land"
+  }
+]
