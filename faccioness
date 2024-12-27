@@ -4,18 +4,21 @@
  "leader name": "Henry briggs",
  "adjetive": ["the perfect human"],
  "startIntroPart1": "debemos llevar nuestros avances a cada uno de estos inferiores, vamos a llevar nuestra ciencia a todo el planeta!!",
+
 		"declaringWar": "tomamos una decision , tu cultura es ineficiente ,los vamos a ayudar.",
 		"attacked": "crees que unos palos podran desafiar nuestra tecnologia ? ja!! que gracioso.",
 		"defeated": "per... pero que fue lo que no vimos, como es... posible.",
+
 		"introduction": "cuidado inferiores , si tocas este cuchillo hay un 70% de que te quedes sin mano.",
 		"neutralHello": "tienes arquelogia de este planeta ?.",
-		"hateHello": "miren quien vino a morir.",
+		"hateHello": "miren quien vino a cambiar de opinion.",
 		"tradeRequest": "veo que tenes algo que quiero investigar, si me lo permites, te lo cambio por esto.",
 		"outerColor": [0,0,140],
 		"innerColor": [255,255,255],
 		"uniqueName": "Maid Policies",
 		"uniques": ["[+2 Science,] from every specialist [in all cities]", "[+2 science] from every [library]", "+[]% combat bonus for units fighting in [Vanu archeology]"],
 		"cities": [""]
+	]
   },
 
 
