@@ -1,0 +1,20 @@
+[
+
+{
+		"name": "sunder",
+		"unitType": "sunder",
+		"uniqueTo": "vanu",
+		"replaces": "Machine Gun",
+		"requiredTech": "Electronics",
+		"movement": 2,
+		"strength": 45,
+		"rangedStrength": 65,
+		"cost": 460,
+		"uniques": ["Only available <if [Advanced Demon Magics] is constructed>",
+		"Only available <if [Scientific Demonology] is constructed>"],
+		"promotions": ["City Buster","Soul Drain"]
+		
+	},
+
+
+]
